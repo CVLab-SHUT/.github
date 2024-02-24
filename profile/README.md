@@ -1,6 +1,6 @@
 # 🔬 CVLab SHUT: Pioneering AI Research Laboratory 🚀
 
-#### Welcome to CVLab SHUT, where we lead the charge in cutting-edge artificial intelligence and deep learning research. With a focus on computer vision and image processing, we harness state-of-the-art equipment and resources to tackle the world's most pressing challenges.
+#### Welcome to CVLab SHUT, where we lead the charge in cutting-edge artificial intelligence and deep learning research under the guidance of Dr. Mansoor Fateh. With a focus on computer vision and image processing, we harness state-of-the-art equipment and resources to tackle the world's most pressing challenges.
 
 # Key Highlights:
 
